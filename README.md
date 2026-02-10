@@ -2,7 +2,8 @@
 this shell script showing the monitoring of any services over the servetr
 
 
-S sudo su
+sudo su
+
 vim config.env
 
 <img width="871" height="324" alt="Screenshot from 2026-02-09 18-14-34" src="https://github.com/user-attachments/assets/1d284532-7aaf-471e-a470-56f30c14063f" />
