@@ -1,6 +1,8 @@
 # Service_monitoring
 this shell script showing the monitoring of any services over the servetr
 
+Here Command and Snapshort given
+
 
 sudo su
 
